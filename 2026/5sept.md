@@ -1,42 +1,53 @@
-DevJournal --- 5 September 2026
+# DevJournal — 5 September 2026
 
-Today I did an exercise using if-else statements. Not exactly a big
-feat---I studied this almost 5 years ago.
+## What I Did Today
+
+Today I did an exercise using `if-else` statements.
+
+That's not really a big feat. I studied this almost **5 years ago**.
 
 But the best part wasn't the exercise itself.
 
-Last time, whenever I wanted to make something, I'd just make it, get it
-working, and move on. This time, I actually got into the depth of it.
+Last time, whenever I wanted to make something, I'd just make it, get it working, and move on.
 
-I used Python's time module and started studying how it works instead
-of just using it blindly.
+This time, I actually got into the **depth of it**.
 
-One fun fact I learned today: computers count time in seconds from
-January 1, 1970. Like, who even decided that date?
+I used Python's `time` module and studied about the `time` module — how it works and what's actually happening behind the scenes.
 
-Let me search it up...
+And the fun fact I learned today?
 
-Yup. Again, Bell. 😭
+> Computers count seconds from **January 1, 1970**.
 
-I also realized something while working with both C and Python. C is
-absolutely goated, especially when it comes to control and performance,
-but for the kind of quick development and efficiency I want right now,
-I'd prefer Python.
+Like... who even set that date?
 
-I'm learning C from college, and I'm practising problems from Take U
-Forward's Striver Sheet. I asked my teacher so many times about where
-I should study from, and he finally gave me a proper resource to follow.
+Let me search it up.
 
-Apart from coding, I also learned something important today: why
-communication matters in work culture and why we need to work in
-groups.
+Yup, again Bell. 😭
 
-Keeping feelings and emotions aside, we need to learn how to work
-professionally.
+---
 
-I'm trying to create that kind of environment in my hostel room too.
+## Python vs C
 
-It's tough, but I'm getting close.
+I knew C language was **goated**, but I'd prefer Python for the efficiency.
 
-Today's takeaway:
-Don't just make things work. Understand why they work.
+I'm learning C from college and practising from **Take U Forward's Striver Sheet**.
+
+I asked my teacher so many times where I could study from, and he finally gave me a proper resource to follow.
+
+---
+
+## Something Beyond Coding
+
+I also learnt why **communication is important in work culture** and why we need to work in groups.
+
+Keeping feelings and emotions aside, we need to work **professionally**.
+
+I'm trying to create this environment in my hostel room.
+
+It's tough, but I'm close.
+
+---
+
+## Today's Takeaway
+
+> Don't just make something work. Understand how and why it works.
